@@ -1,0 +1,6 @@
+
+# participant IDs from the listening test used in modeling RTs after discarding inattentive subjects:
+ptcpnt_id = {'CMU-1','cmu2','CMU_3','CMU-4','cmu_5','CMU_6','CMV-7','CMU_8','cmu_9','CMU_10','cmu_11','cmu12',...
+    'CMU_13','CMU-14','cmu_15','CMU_16','CMU_17','iisc_01','iisc_02','iisc_03','iisc_04','iisc_05','iisc_06',...
+    'iisc_07','iisc_08','iisc_09','iisc_10','iisc_11','iisc_12'};
+
