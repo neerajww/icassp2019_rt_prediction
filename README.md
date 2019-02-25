@@ -4,8 +4,10 @@ The ability to detect a change in the input is an essential aspect of perception
 The repository contains the data and codes used in the study.
 
 ###### Publication link:
-To be updated after May 2019.
+To be presented in ICASSP 2019, at Brighton, UK. 
+https://2019.ieeeicassp.org/
 
+See you there!
 ###### Prior work:
 The Journal of the Acoustical Society of America 145, 131 (2019)
 https://asa.scitation.org/doi/10.1121/1.5084044?af=R
